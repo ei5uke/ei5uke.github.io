@@ -7,8 +7,15 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Eisuke</copyright>
-    <lastBuildDate>Sat, 20 May 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 Mar 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://ei5uke.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Undergraduate research, through university and REUs</title>
+      <link>https://ei5uke.github.io/posts/reu/</link>
+      <pubDate>Thu, 21 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://ei5uke.github.io/posts/reu/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Preference-Based RL - A Human in the Loop approach to RL</title>
       <link>https://ei5uke.github.io/posts/pbrl/</link>
@@ -32,9 +39,16 @@
     </item>
     <item>
       <title>about me</title>
-      <link>https://ei5uke.github.io/about_me/</link>
+      <link>https://ei5uke.github.io/about/about_me/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://ei5uke.github.io/about_me/</guid>
+      <guid>https://ei5uke.github.io/about/about_me/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>random</title>
+      <link>https://ei5uke.github.io/about/random/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ei5uke.github.io/about/random/</guid>
       <description></description>
     </item>
   </channel>
