@@ -7,8 +7,22 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Eisuke</copyright>
-    <lastBuildDate>Thu, 21 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Oct 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://ei5uke.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ai in Fiction ver.2 - Pluto</title>
+      <link>https://ei5uke.github.io/posts/pluto/</link>
+      <pubDate>Fri, 25 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://ei5uke.github.io/posts/pluto/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ai in Fiction ver.1 - Nier</title>
+      <link>https://ei5uke.github.io/posts/nier/</link>
+      <pubDate>Thu, 24 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://ei5uke.github.io/posts/nier/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Undergraduate research, through university and REUs</title>
       <link>https://ei5uke.github.io/posts/reu/</link>
@@ -35,6 +49,13 @@
       <link>https://ei5uke.github.io/posts/ugsrp/</link>
       <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
       <guid>https://ei5uke.github.io/posts/ugsrp/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mario, Please Jump</title>
+      <link>https://ei5uke.github.io/posts/mario/</link>
+      <pubDate>Mon, 24 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://ei5uke.github.io/posts/mario/</guid>
       <description></description>
     </item>
   </channel>
