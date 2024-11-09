@@ -98,10 +98,34 @@
 <body>
     <div>
         <p style="text-align: left;">
-            <span style="color: rgb(220, 11, 87);">#</span> me, fall 2023
+            <span style="color: rgb(220, 11, 87);">#</span> me
         </p>
         <div>
-            <img src=/img/me.png width="400">
+            
+            
+            <figure style="display:block; margin: auto; width:50%">
+                <img id="randomImage" src=[/img/me/me.png%20/img/me/heli.png%20/img/me/arrows.png%20/img/me/moonstar.png] style="display:block; margin: auto; width:100%" > 
+              </figure> 
+
+            <script>
+                
+                const images = [
+                "/img/me/me.png",
+                "/img/me/heli.png",
+                "/img/me/arrows.png",
+                "/img/me/moonstar.png",
+                ];
+        
+                
+                function displayRandomImage() {
+                    const randomIndex = Math.floor(Math.random() * images.length);
+                    document.getElementById("randomImage").src = images[randomIndex];
+                }
+        
+                
+                displayRandomImage();
+
+            </script>
         </div>
         <p style="text-align: left;">
             <span style="color: rgb(220, 11, 87);">#</span> brief bio
