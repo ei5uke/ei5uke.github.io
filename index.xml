@@ -51,6 +51,13 @@
       <description>&lt;p&gt;I like entertainment, and a huge part of the reason I&amp;rsquo;m into math and cs and stuff is due to the fiction material I&amp;rsquo;ve ingested. Subsequently, I want to talk about all the fiction material that&amp;rsquo;s impacted my life and my thoughts.&lt;/p&gt;&#xA;&lt;p&gt;This is because sci-fi brings up many points that ponder how the world will be impacted by new technology. I mean for one, &lt;a href=&#34;https://en.wikipedia.org/wiki/WarGames&#34;&gt;War Games&lt;/a&gt; hypothesized how a hacker could breach the military and launch a nuke - this fictional story persuaded the federal government to relook at the, then current, regulations regarding internet protocol.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>me</title>
+      <link>https://ei5uke.github.io/me/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ei5uke.github.io/me/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://scholar.googleusercontent.com/citations?view_op=medium_photo&amp;amp;user=NBvMsAMAAAAJ&amp;amp;citpid=2&#34; alt=&#34;me&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Hello, I&amp;rsquo;m Eisuke (英祐), currently an undergrad generally interested in robot learning. I&amp;rsquo;ve a keen interest in (inverse) Reinforcement Learning and commonsense reasoning. As of now, I&amp;rsquo;ve mainly worked in quadruped locomotion and manipulation, as well as preference-based rl. My long-term mission is to contribute to the development of robots to human-inhabited environments (such as in hospitals or the home) that collaborate with us, with reasoning.&lt;/p&gt;&#xA;&lt;p&gt;Experience:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;TBD, MIT Lincoln Lab, (2025)&lt;/li&gt;&#xA;&lt;li&gt;Prof. Erdem Biyik, LiraLab, USC (2024-present)&lt;/li&gt;&#xA;&lt;li&gt;Prof. Shiqi Zhang, Air, SUNY Binghamton (2022-2024)&lt;/li&gt;&#xA;&lt;li&gt;Prof. Chen Feng, AI4CE, NYU (2022-2023)&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
       <title>posts</title>
       <link>https://ei5uke.github.io/posts/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
