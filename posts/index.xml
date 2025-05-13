@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Eisuke Hirota</title>
-    <link>https://ei5uke.github.io/</link>
-    <description>Recent content on Eisuke Hirota</description>
+    <title>Posts on Eisuke Hirota</title>
+    <link>https://ei5uke.github.io/posts/</link>
+    <description>Recent content in Posts on Eisuke Hirota</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 13 May 2025 13:34:54 +0200</lastBuildDate>
-    <atom:link href="https://ei5uke.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://ei5uke.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ai/Robots in Fiction ver. 8 -- Metal Gear Solid 2</title>
       <link>https://ei5uke.github.io/posts/2025/mgs/</link>
