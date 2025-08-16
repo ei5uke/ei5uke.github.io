@@ -6,14 +6,14 @@
     <description>Recent content on Eisuke Hirota</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 06 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 13 Aug 2025 13:34:54 +0200</lastBuildDate>
     <atom:link href="https://ei5uke.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>research bio</title>
-      <link>https://ei5uke.github.io/posts/me/</link>
-      <pubDate>Fri, 06 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://ei5uke.github.io/posts/me/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://scholar.googleusercontent.com/citations?view_op=medium_photo&amp;amp;user=NBvMsAMAAAAJ&amp;amp;citpid=2&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Hello, I’m Eisuke (英祐), a recently-graduated undergrad who&amp;rsquo;s generally interested in robot learning. I’ve a keen interest in (inverse) Reinforcement Learning and commonsense reasoning. As of now, I’ve mainly worked in quadruped locomotion and manipulation, as well as preference-based rl. My long-term mission is to contribute to the development of robots to human-inhabited environments (such as in hospitals or the home) that collaborate with us, with reasoning.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;SUNY Binghamton, BS in Computer Science (2021-2025)&lt;/li&gt;&#xA;&lt;li&gt;Experience (institution and advisor):&#xA;&lt;ul&gt;&#xA;&lt;li&gt;MIT Lincoln Laboratory, Dr. Erfaun Noorani and Jason Nezvadovitz (2025-present)&lt;/li&gt;&#xA;&lt;li&gt;University of Southern California, Prof. Erdem Biyik (2024-2025)&lt;/li&gt;&#xA;&lt;li&gt;SUNY Binghamton, Prof. Shiqi Zhang (2022-2024)&lt;/li&gt;&#xA;&lt;li&gt;New York University, Prof. Chen Feng (2022-2023)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      <title>Yapping and White papers</title>
+      <link>https://ei5uke.github.io/posts/2025/whitepapers/</link>
+      <pubDate>Wed, 13 Aug 2025 13:34:54 +0200</pubDate>
+      <guid>https://ei5uke.github.io/posts/2025/whitepapers/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;ve often been called out for &lt;a href=&#34;https://www.urbandictionary.com/define.php?term=yap&#34;&gt;yapping&lt;/a&gt;, been called a yapper, or been told I speak yapanese - these are synonymous with the idea that I can&amp;rsquo;t shut up. From this, I&amp;rsquo;ve caught myself talking for prolong periods of time, possibly making a roundabout argument / case that isn&amp;rsquo;t clear cut and thus misleading. To work on this, I wanted to take inspiration from &lt;a href=&#34;https://library.princeton.edu/sites/g/files/toruqf6021/files/documents/Non-Cooperative_Games_Nash.pdf&#34;&gt;Nash&amp;rsquo;s thesis&lt;/a&gt;, known to be the one of the most short but influential pieces of writing ever, and learn how to present myself with more clarity and conciseness. As such, I wanted to read other works that get the point across in an efficient manner.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Ai/Robots in Fiction ver. 8 -- Metal Gear Solid 2</title>
@@ -72,11 +72,25 @@
       <description>&lt;p&gt;I like entertainment, and a huge part of the reason I’m into math and cs and stuff is due to the fiction material I’ve ingested. Subsequently, I want to talk about all the fiction material that’s impacted my life and my thoughts.&lt;/p&gt;&#xA;&lt;p&gt;This is because sci-fi brings up many points that ponder how the world will be impacted by new technology. I mean for one, &lt;a href=&#34;https://en.wikipedia.org/wiki/WarGames&#34;&gt;War Games&lt;/a&gt; hypothesized how a hacker could breach the military and launch a nuke - this fictional story persuaded the federal government to relook at the, then current, regulations regarding internet protocol.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Undergraduate research, through university and REUs</title>
+      <link>https://ei5uke.github.io/posts/2024/reus/</link>
+      <pubDate>Thu, 21 Mar 2024 13:34:54 +0200</pubDate>
+      <guid>https://ei5uke.github.io/posts/2024/reus/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;em&gt;Update (Aug 16, 2025): Some of the context of this post has been modified b/c I lost the relevant data awhile back and had not reuploaded this post until today. Nevertheless, a decent chunk of this post is still relevant, so I hope it is of use to the reader.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Within the past year, I gained various life experiences, though one of the more non-private ones I&amp;rsquo;m comfortable sharing to strangers on the internet (besides my Goodreads book list!) is my undergraduate research experience.&#xA;This book is god-tier.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>posts</title>
       <link>https://ei5uke.github.io/posts/posts/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://ei5uke.github.io/posts/posts/</guid>
-      <description>&lt;p&gt;This list compiles all posts to my blog.&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;Ai/Robots in Fiction&lt;/em&gt; - I give my thoughts on sci-fi pieces that involve AI and robots, primarily through the mediums of games and manga. I try to remain spoiler free, but my arguments tend to require a lot of them, so you&amp;rsquo;ve been warned.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;2025&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;../2025/mgs/&#34;&gt;Ai/Robots in Fiction ver. 8 – Metal Gear Solid 2&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;../2025/crymachina/&#34;&gt;Ai/Robots in Fiction ver. 7 – CRYMACHINA&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;../2025/summerwars/&#34;&gt;Ai/Robots in Fiction ver. 6 – Summer Wars&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;../2025/sentinels/&#34;&gt;Ai/Robots in Fiction ver. 5 – 13 Sentinels&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;2024&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;../2024/ddddd/&#34;&gt;Ai/Robots in Fiction ver. 4 – Doraemon and Dead Dead Demon’s Dededededestruction&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;../2024/ai/&#34;&gt;Ai/Robots in Fiction ver. 3 – Ai: The Somnium Files&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;../2024/pluto/&#34;&gt;Ai/Robots in Fiction ver. 2 – Pluto&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;../2024/nier/&#34;&gt;Ai/Robots in Fiction ver. 1 – NieR&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      <description>&lt;p&gt;This list compiles all posts to my blog. May be related to my research or not.&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;Misc.&lt;/em&gt; - Miscellaneous content not directly related to my research.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;2025&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;../2025/whitepapers/&#34;&gt;Yapping and White papers&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;2024&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;../2024/reus/&#34;&gt;Undergraduate research, through university and REUs&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;em&gt;Ai/Robots in Fiction&lt;/em&gt; - I give my thoughts on sci-fi pieces that involve AI and robots, primarily through the mediums of games and manga. I try to remain spoiler free, but my arguments tend to require a lot of them, so you&amp;rsquo;ve been warned.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>research bio</title>
+      <link>https://ei5uke.github.io/posts/me/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ei5uke.github.io/posts/me/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://scholar.googleusercontent.com/citations?view_op=medium_photo&amp;amp;user=NBvMsAMAAAAJ&amp;amp;citpid=2&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Hello, I’m Eisuke (英祐). I am generally interested in robotics, machine learning, and probabilistic inference. To this end, I have performed research in reinforcement learning and reward learning, algorithmic human-robot interaction, approximate Bayesian inference for active learning, RLHF through various feedback modalities, and evolutionary algorithms for non-convex optimization problems. My long-term mission is to contribute to the development of robots to human-inhabited environments (such as in hospitals or the home) that collaborate with us, with reasoning.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

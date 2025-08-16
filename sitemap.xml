@@ -3,10 +3,10 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://ei5uke.github.io/posts/</loc>
-    <lastmod>2025-06-06T00:00:00+00:00</lastmod>
+    <lastmod>2025-08-13T13:34:54+02:00</lastmod>
   </url><url>
-    <loc>https://ei5uke.github.io/posts/me/</loc>
-    <lastmod>2025-06-06T00:00:00+00:00</lastmod>
+    <loc>https://ei5uke.github.io/posts/2025/whitepapers/</loc>
+    <lastmod>2025-08-13T13:34:54+02:00</lastmod>
   </url><url>
     <loc>https://ei5uke.github.io/posts/2025/mgs/</loc>
     <lastmod>2025-05-13T13:34:54+02:00</lastmod>
@@ -32,12 +32,17 @@
     <loc>https://ei5uke.github.io/posts/2024/nier/</loc>
     <lastmod>2024-10-24T13:34:54+02:00</lastmod>
   </url><url>
+    <loc>https://ei5uke.github.io/posts/2024/reus/</loc>
+    <lastmod>2024-03-21T13:34:54+02:00</lastmod>
+  </url><url>
     <loc>https://ei5uke.github.io/</loc>
     <lastmod>2022-08-25T21:30:04+08:00</lastmod>
   </url><url>
     <loc>https://ei5uke.github.io/categories/</loc>
   </url><url>
     <loc>https://ei5uke.github.io/posts/posts/</loc>
+  </url><url>
+    <loc>https://ei5uke.github.io/posts/me/</loc>
   </url><url>
     <loc>https://ei5uke.github.io/tags/</loc>
   </url>
