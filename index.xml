@@ -6,8 +6,15 @@
     <description>Recent content on Eisuke Hirota</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 13 Aug 2025 13:34:54 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 15 Sep 2025 13:34:54 +0200</lastBuildDate>
     <atom:link href="https://ei5uke.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>On Taking Notes</title>
+      <link>https://ei5uke.github.io/posts/2025/notes/</link>
+      <pubDate>Mon, 15 Sep 2025 13:34:54 +0200</pubDate>
+      <guid>https://ei5uke.github.io/posts/2025/notes/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;ve always felt like the way I took notes is very sub-optimal. Whether it was for class, meetings, or self-study, the way I took notes seemed flawed compared to how others did. I think seeing people color-code or create a bajillion nested folders has made me self-aware of my messyness and possibly insecure of it; I thus sought out to improve my note-taking skills. After years of improvements, upgrades, and optimizations, I realized that, &lt;em&gt;drumroll&lt;/em&gt;, the way I took notes originally was near-optimal and better than the rest for my needs. Here I&amp;rsquo;ll cover each and my thoughts regarding its pros/cons, and why I eventually just went full circle to my original note-taking practices.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Yapping and White papers</title>
       <link>https://ei5uke.github.io/posts/2025/whitepapers/</link>
@@ -83,7 +90,7 @@
       <link>https://ei5uke.github.io/posts/posts/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://ei5uke.github.io/posts/posts/</guid>
-      <description>&lt;p&gt;This list compiles all posts to my blog. May be related to my research or not.&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;Misc.&lt;/em&gt; - Miscellaneous content not directly related to my research.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;2025&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;../2025/whitepapers/&#34;&gt;Yapping and White papers&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;2024&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;../2024/reus/&#34;&gt;Undergraduate research, through university and REUs&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;em&gt;Ai/Robots in Fiction&lt;/em&gt; - I give my thoughts on sci-fi pieces that involve AI and robots, primarily through the mediums of games and manga. I try to remain spoiler free, but my arguments tend to require a lot of them, so you&amp;rsquo;ve been warned.&lt;/p&gt;</description>
+      <description>&lt;p&gt;This list compiles all posts to my blog. May be related to my research or not.&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;Misc.&lt;/em&gt; - Miscellaneous content not directly related to my research.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;2025&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;../2025/notes&#34;&gt;On Taking Notes&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;../2025/whitepapers/&#34;&gt;Yapping and White papers&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;2024&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;../2024/reus/&#34;&gt;Undergraduate research, through university and REUs&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;em&gt;Ai/Robots in Fiction&lt;/em&gt; - I give my thoughts on sci-fi pieces that involve AI and robots, primarily through the mediums of games and manga. I try to remain spoiler free, but my arguments tend to require a lot of them, so you&amp;rsquo;ve been warned.&lt;/p&gt;</description>
     </item>
     <item>
       <title>random extra content</title>
