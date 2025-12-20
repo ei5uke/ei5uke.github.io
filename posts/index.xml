@@ -2,115 +2,122 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Eisuke Hirota</title>
-    <link>https://ei5uke.github.io/posts/</link>
+    <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on Eisuke Hirota</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 19 Oct 2025 13:34:54 +0200</lastBuildDate>
-    <atom:link href="https://ei5uke.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 02 Dec 2025 13:34:54 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Gap semester</title>
+      <link>http://localhost:1313/posts/2025/gap/</link>
+      <pubDate>Tue, 02 Dec 2025 13:34:54 +0200</pubDate>
+      <guid>http://localhost:1313/posts/2025/gap/</guid>
+      <description>&lt;p&gt;For various reasons, the latter half of my 2025 ended up becoming a gap semester. I graduated undergrad back in May with no certain future prospect of the upcoming years: I didn&amp;rsquo;t hear back anything promising from my PhD admissions cycle nor job applications. Fortunately I had an internship lined up for the summer, and there I made connections to then lead to my current work with Purdue. Herein, I spent a good amount of my time from August to now leading a research project and learning a lot. I then got into MS starting spring 2026 and decided to commit to grad school. So looking back, my fall 2025 now looks like a gap semester.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>4 signs a ramen shop might not be great before you enter it (in America)</title>
-      <link>https://ei5uke.github.io/posts/2025/ramen/</link>
+      <link>http://localhost:1313/posts/2025/ramen/</link>
       <pubDate>Sun, 19 Oct 2025 13:34:54 +0200</pubDate>
-      <guid>https://ei5uke.github.io/posts/2025/ramen/</guid>
+      <guid>http://localhost:1313/posts/2025/ramen/</guid>
       <description>&lt;p&gt;Good and great ramen isn&amp;rsquo;t difficult to find in Japan. So, how come most ramen I come across in America don&amp;rsquo;t hit the same spot? I have no expertise in explaining the history behind how ramen was brought to the United States and how its cultural dominance exploded (think instant ramen and college students, or saimin). What I can say are a few tricks that I&amp;rsquo;ve uncovered in determining if a ramen shop may not be so great, even before you ever enter it and order food. To preface, this is based off my experience eating ramen in NYC, Boston, and LA. These tricks may not apply to places that exist outside of these three cities, but I hope it helps the reader get a better sense of what good ramen is like.&lt;/p&gt;</description>
     </item>
     <item>
       <title>On Taking Notes</title>
-      <link>https://ei5uke.github.io/posts/2025/notes/</link>
+      <link>http://localhost:1313/posts/2025/notes/</link>
       <pubDate>Mon, 15 Sep 2025 13:34:54 +0200</pubDate>
-      <guid>https://ei5uke.github.io/posts/2025/notes/</guid>
+      <guid>http://localhost:1313/posts/2025/notes/</guid>
       <description>&lt;p&gt;I&amp;rsquo;ve always felt like the way I took notes is very sub-optimal. Whether it was for class, meetings, or self-study, the way I took notes seemed flawed compared to how others did. I think seeing people color-code or create a bajillion nested folders has made me self-aware of my messyness and possibly insecure of it; I thus sought out to improve my note-taking skills. After years of improvements, upgrades, and optimizations, I realized that, &lt;em&gt;drumroll&lt;/em&gt;, the way I took notes originally was near-optimal and better than the rest for my needs. Here I&amp;rsquo;ll cover each and my thoughts regarding its pros/cons, and why I eventually just went full circle to my original note-taking practices.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Yapping and White papers</title>
-      <link>https://ei5uke.github.io/posts/2025/whitepapers/</link>
+      <link>http://localhost:1313/posts/2025/whitepapers/</link>
       <pubDate>Wed, 13 Aug 2025 13:34:54 +0200</pubDate>
-      <guid>https://ei5uke.github.io/posts/2025/whitepapers/</guid>
+      <guid>http://localhost:1313/posts/2025/whitepapers/</guid>
       <description>&lt;p&gt;I&amp;rsquo;ve often been called out for &lt;a href=&#34;https://www.urbandictionary.com/define.php?term=yap&#34;&gt;yapping&lt;/a&gt;, been called a yapper, or been told I speak yapanese - these are synonymous with the idea that I can&amp;rsquo;t shut up. From this, I&amp;rsquo;ve caught myself talking for prolong periods of time, possibly making a roundabout argument / case that isn&amp;rsquo;t clear cut and thus misleading. To work on this, I wanted to take inspiration from &lt;a href=&#34;https://library.princeton.edu/sites/g/files/toruqf6021/files/documents/Non-Cooperative_Games_Nash.pdf&#34;&gt;Nash&amp;rsquo;s thesis&lt;/a&gt;, known to be the one of the most short but influential pieces of writing ever, and learn how to present myself with more clarity and conciseness. As such, I wanted to read other works that get the point across in an efficient manner.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Ai/Robots in Fiction ver. 8 -- Metal Gear Solid 2</title>
-      <link>https://ei5uke.github.io/posts/2025/mgs/</link>
+      <link>http://localhost:1313/posts/2025/mgs/</link>
       <pubDate>Tue, 13 May 2025 13:34:54 +0200</pubDate>
-      <guid>https://ei5uke.github.io/posts/2025/mgs/</guid>
+      <guid>http://localhost:1313/posts/2025/mgs/</guid>
       <description>&lt;p&gt;The &lt;em&gt;Metal Gear Solid&lt;/em&gt; series is a cult favorite for many reasons, but to give a sentence to sell you on the series, it&amp;rsquo;s an over-the-top serious anti-war story with tons of goofy boss fights and funny characters. While there&amp;rsquo;s tons of comedy and fun gameplay, the overall messages found within the games is profound and to me, I think &lt;em&gt;Metal Gear Solid 2&lt;/em&gt; is where its significance kickstarts. I&amp;rsquo;d like to explain the brilliance of this specific piece here.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Ai/Robots in Fiction ver. 7 -- CRYMACHINA</title>
-      <link>https://ei5uke.github.io/posts/2025/crymachina/</link>
+      <link>http://localhost:1313/posts/2025/crymachina/</link>
       <pubDate>Fri, 04 Apr 2025 13:34:54 +0200</pubDate>
-      <guid>https://ei5uke.github.io/posts/2025/crymachina/</guid>
+      <guid>http://localhost:1313/posts/2025/crymachina/</guid>
       <description>&lt;h2 id=&#34;preface&#34;&gt;Preface&lt;/h2&gt;&#xA;&lt;p&gt;I was in Japan during the winter break, visiting family like usual. I tend to go to BookOff to buy used goods (thrifting clothes mostly) and was in the game section when a certain piece caught my eye. The game&amp;rsquo;s package had beautiful art with its composition - surely it&amp;rsquo;s a well-known game I thought. To my surprise, this game isn&amp;rsquo;t very known and has a relatively low Metacritic score (I literally don&amp;rsquo;t trust any of these dog-ass video game critics especially IGN) and meh user ratings (I trust these reviews though). So, I just put it back in the aisle and went with my day.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Ai/Robots in Fiction ver. 6 -- Summer Wars</title>
-      <link>https://ei5uke.github.io/posts/2025/summerwars/</link>
+      <link>http://localhost:1313/posts/2025/summerwars/</link>
       <pubDate>Thu, 27 Feb 2025 13:34:54 +0200</pubDate>
-      <guid>https://ei5uke.github.io/posts/2025/summerwars/</guid>
+      <guid>http://localhost:1313/posts/2025/summerwars/</guid>
       <description>&lt;p&gt;To my former labmate and friend &lt;a href=&#34;https://yoheihayamizu.github.io/yhayamizu/&#34;&gt;Yohei Hayamizu&lt;/a&gt;, Summer Wars was one of the more influential works that sparked his decision to enter robotics, AI, and in general, higher technology. And for 6-year-old me when I first watched it, I could not agree more. The breathtaking music, animation, and crazy breadth in terms of technology is just Hyminal to any tech junkie.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/HmjQrtJ.png&#34; alt=&#34;&#34;&gt;&#xA;&lt;em&gt;Summer Wars Poster&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;Summer Wars is at its core, a story that revolves around the setting of future Japan, and the integration of Oz, a digital world akin to a &lt;a href=&#34;https://en.wikipedia.org/wiki/Metaverse&#34;&gt;metaverse&lt;/a&gt;, in Japanese society. Oz is heavily engrained within every aspect of society - from mainly acting as a social media hub to a control unit for various physical “computerized” entities like fire hydrants and traffic signals (we’ll get back to this second point later). Everyone has their own customized characters that represent their identities, and Oz acts as a second society for people. Users can participate in various events, transactions, and games within this digital world, e.g., one of the protagonist’s allies, alias King Kazuma, is famous in Oz for being the number one hand-to-hand combat fighter.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Ai/Robots in Fiction ver. 5 -- 13 Sentinels</title>
-      <link>https://ei5uke.github.io/posts/2025/sentinels/</link>
+      <link>http://localhost:1313/posts/2025/sentinels/</link>
       <pubDate>Sat, 18 Jan 2025 13:34:54 +0200</pubDate>
-      <guid>https://ei5uke.github.io/posts/2025/sentinels/</guid>
+      <guid>http://localhost:1313/posts/2025/sentinels/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;“Get in the robot, Shinji” - Misato, &lt;em&gt;Neon Genesis Evangelion&lt;/em&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;This famous quote encompasses the unwillingness by Shinji to pilot the 01 Eva due to interpersonal depression and external expectations and duty set from society. Now, imagine this, but add 12 more characters who bare the responsibility to pilot mechs to protect humanity. This is the setup for the game 13 Sentinels: Aegis Rim developed by Vanillaware and released by Atlas. I already love Atlas (notably the Persona Games, Metaphor, and Catherine), so as I looked for other serious games to play on my switch, I stumbled upon this. And boy oh boy, this game is batshit insane.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Ai/Robots in Fiction ver. 4 -- Doraemon and Dead Dead Demon&#39;s Dededededestruction</title>
-      <link>https://ei5uke.github.io/posts/2024/ddddd/</link>
+      <link>http://localhost:1313/posts/2024/ddddd/</link>
       <pubDate>Tue, 17 Dec 2024 13:34:54 +0200</pubDate>
-      <guid>https://ei5uke.github.io/posts/2024/ddddd/</guid>
+      <guid>http://localhost:1313/posts/2024/ddddd/</guid>
       <description>&lt;p&gt;With the &lt;a href=&#34;https://www.youtube.com/watch?v=JqsPrYf5ZYM&#34;&gt;anime&lt;/a&gt; released, I thought it’d be great for me to introduce Dead Dead Demon’s Dededededestruction (DDDD) next. This is a manga made by esteemed author Inio Asano, famous for Solanin and his masterpiece, Oyasumi Punpun. This work is not as depressing as his other works (which is, in some sense, a good thing), but still conveys a great depth of existential dread so I’d highly recommend reading it.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/odmGx9T.png&#34; alt=&#34;&#34;&gt;&#xA;&lt;em&gt;DDDD&lt;/em&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Ai/Robots in Fiction ver. 3 -- Ai: The Somnium Files</title>
-      <link>https://ei5uke.github.io/posts/2024/ai/</link>
+      <link>http://localhost:1313/posts/2024/ai/</link>
       <pubDate>Wed, 04 Dec 2024 13:34:54 +0200</pubDate>
-      <guid>https://ei5uke.github.io/posts/2024/ai/</guid>
+      <guid>http://localhost:1313/posts/2024/ai/</guid>
       <description>&lt;p&gt;AI: The Somnium Files is a murder mystery game created by Kotaro Uchikoshi, known for the Zero Escape series (AMAZING STUFF). You play as Date, an amnesiac detective and aim to solve a potential revived serial killing in a futuristic society. While I can definitely talk all day about the entire plot and twists that happen throughout the game, I’ll just stick to the AI stuff.&lt;/p&gt;&#xA;&lt;p&gt;The entire core of AI in this game follows a single character, but before we get into that, I first want to give a little background, specifically, the title of the game.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Ai/Robots in Fiction ver. 2 -- Pluto</title>
-      <link>https://ei5uke.github.io/posts/2024/pluto/</link>
+      <link>http://localhost:1313/posts/2024/pluto/</link>
       <pubDate>Fri, 08 Nov 2024 13:34:54 +0200</pubDate>
-      <guid>https://ei5uke.github.io/posts/2024/pluto/</guid>
+      <guid>http://localhost:1313/posts/2024/pluto/</guid>
       <description>&lt;p&gt;Pluto follows a futuristic world in which technology is much advanced, to the point where robots exist in our every day lives. While this shows a great promise for science, Pluto also posits an important question: “What happens if robots gain consciousness?” Can humans and robots coexist in such a world, or will this feat cause one of the factions to drive the other into extinction?&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/C7skCOf.png&#34; alt=&#34;&#34;&gt;&#xA;&lt;em&gt;Pluto Volume 7 Cover.&lt;/em&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Ai/Robots in Fiction ver. 1 -- NieR</title>
-      <link>https://ei5uke.github.io/posts/2024/nier/</link>
+      <link>http://localhost:1313/posts/2024/nier/</link>
       <pubDate>Thu, 24 Oct 2024 13:34:54 +0200</pubDate>
-      <guid>https://ei5uke.github.io/posts/2024/nier/</guid>
+      <guid>http://localhost:1313/posts/2024/nier/</guid>
       <description>&lt;p&gt;I like entertainment, and a huge part of the reason I’m into math and cs and stuff is due to the fiction material I’ve ingested. Subsequently, I want to talk about all the fiction material that’s impacted my life and my thoughts.&lt;/p&gt;&#xA;&lt;p&gt;This is because sci-fi brings up many points that ponder how the world will be impacted by new technology. I mean for one, &lt;a href=&#34;https://en.wikipedia.org/wiki/WarGames&#34;&gt;War Games&lt;/a&gt; hypothesized how a hacker could breach the military and launch a nuke - this fictional story persuaded the federal government to relook at the, then current, regulations regarding internet protocol.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Undergraduate research, through university and REUs</title>
-      <link>https://ei5uke.github.io/posts/2024/reus/</link>
+      <link>http://localhost:1313/posts/2024/reus/</link>
       <pubDate>Thu, 21 Mar 2024 13:34:54 +0200</pubDate>
-      <guid>https://ei5uke.github.io/posts/2024/reus/</guid>
+      <guid>http://localhost:1313/posts/2024/reus/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;em&gt;Update (Aug 16, 2025): Some of the context of this post has been modified b/c I lost the relevant data awhile back and had not reuploaded this post until today. Nevertheless, a decent chunk of this post is still relevant, so I hope it is of use to the reader.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Within the past year, I gained various life experiences, though one of the more non-private ones I&amp;rsquo;m comfortable sharing to strangers on the internet (besides my Goodreads book list!) is my undergraduate research experience.&#xA;This book is god-tier.&lt;/p&gt;</description>
     </item>
     <item>
       <title>posts</title>
-      <link>https://ei5uke.github.io/posts/posts/</link>
+      <link>http://localhost:1313/posts/posts/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://ei5uke.github.io/posts/posts/</guid>
-      <description>&lt;p&gt;This list compiles all posts to my blog. May be related to my research or not.&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;Misc.&lt;/em&gt; - Miscellaneous content not directly related to my research.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;2025&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;../2025/ramen&#34;&gt;4 signs a ramen shop might not be great before you enter it (in America)&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;../2025/notes&#34;&gt;On Taking Notes&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;../2025/whitepapers/&#34;&gt;Yapping and White papers&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;2024&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;../2024/reus/&#34;&gt;Undergraduate research, through university and REUs&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;em&gt;Ai/Robots in Fiction&lt;/em&gt; - I give my thoughts on sci-fi pieces that involve AI and robots, primarily through the mediums of games and manga. I try to remain spoiler free, but my arguments tend to require a lot of them, so you&amp;rsquo;ve been warned.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/posts/posts/</guid>
+      <description>&lt;p&gt;This list compiles all posts to my blog. May be related to my research or not.&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;Misc.&lt;/em&gt; - Miscellaneous content not directly related to my research.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;2025&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;../2025/gap&#34;&gt;Gap semester&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;../2025/ramen&#34;&gt;4 signs a ramen shop might not be great before you enter it (in America)&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;../2025/notes&#34;&gt;On Taking Notes&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;../2025/whitepapers/&#34;&gt;Yapping and White papers&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;2024&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;../2024/reus/&#34;&gt;Undergraduate research, through university and REUs&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;em&gt;Ai/Robots in Fiction&lt;/em&gt; - I give my thoughts on sci-fi pieces that involve AI and robots, primarily through the mediums of games and manga. I try to remain spoiler free, but my arguments tend to require a lot of them, so you&amp;rsquo;ve been warned.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>random extra content</title>
-      <link>https://ei5uke.github.io/posts/random/</link>
+      <title>random extra bio</title>
+      <link>http://localhost:1313/posts/random/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://ei5uke.github.io/posts/random/</guid>
+      <guid>http://localhost:1313/posts/random/</guid>
       <description>&lt;p&gt;here I write completely random stuff.&lt;/p&gt;&#xA;&lt;h2 id=&#34;-my-thoughts-on-food&#34;&gt;🦑 My thoughts on food&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;If I could, I&amp;rsquo;d be eating 24/7. I like food a lot and can talk about it for years.&lt;/li&gt;&#xA;&lt;li&gt;My favorite food is the pho I find around Jackson Heights / Elmhurst. I get all the types of meat (I like tripe and tendon especially) and add all the bean sprouts, lime, and herbs. Depending on the day I may or may not add a bit of sriracha in the soup but not too much such that it covers the flavor of the broth.&lt;/li&gt;&#xA;&lt;li&gt;I don&amp;rsquo;t avoid any particular foods though I don&amp;rsquo;t think I see myself eating mammals besides pigs, cows, goats/lambs/sheep. I did eat horse meat before as it&amp;rsquo;s a thing in Japan; it didn&amp;rsquo;t leave much of an impression so I don&amp;rsquo;t think I&amp;rsquo;ll try it ever again.&lt;/li&gt;&#xA;&lt;li&gt;Oh, but I do think chocolate is overrated. Chocolate ice cream, cake, pain au chocolat, cocoa puffs. Literally none of them are even close to being my go-to-choice. I do like me a good chocolate truffle though.&lt;/li&gt;&#xA;&lt;li&gt;Steak is also overrated. I do enjoy all of them: dry-aged, steak and eggs at 2 am in IHOP, picanha, wagyu, etc. But it&amp;rsquo;s just so pricey for what. Also surely not all high-end restaurants aren&amp;rsquo;t one trick ponies only able to serve expensive pieces of steak with a buttload of truffles and caviar right? I know a select are innovative (e.g. The French Laundry), but every YouTube video highlights steak, truffles, and caviar ONLY.&lt;/li&gt;&#xA;&lt;li&gt;I currently have three knives: a gyuto, pairing, and nakiri. All three are Japanese handcrafted steel. The first two have a western grip and the last a Japanese wooden grip. Personally I find western grips favorable.&lt;/li&gt;&#xA;&lt;li&gt;The best and laziest dish I&amp;rsquo;d recommend making is buldak-sauce fried rice:&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Follow J Kenji Lopez Alt&amp;rsquo;s recipe in making &lt;a href=&#34;https://www.youtube.com/watch?v=u2MJzEuI0vI&#34;&gt;fried rice in a home setting&lt;/a&gt; (without the blowtorch stuff) using whatever toppings you&amp;rsquo;d like. Instead of adding all the sauces at the end though, just add half a packet of the sauce that comes in the 1x spicy buldak ramen. Mix it around and serve.&lt;/p&gt;</description>
     </item>
     <item>
       <title>research bio</title>
-      <link>https://ei5uke.github.io/posts/me/</link>
+      <link>http://localhost:1313/posts/me/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://ei5uke.github.io/posts/me/</guid>
+      <guid>http://localhost:1313/posts/me/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;https://scholar.googleusercontent.com/citations?view_op=medium_photo&amp;amp;user=NBvMsAMAAAAJ&amp;amp;citpid=2&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Hello, I’m Eisuke (英祐). I am generally interested in robotics, machine learning, and probabilistic inference. To this end, I have performed research in reinforcement learning and reward learning, algorithmic human-robot interaction, approximate Bayesian inference for active learning, RLHF through various feedback modalities, and evolutionary algorithms for non-convex optimization problems. My long-term mission is to contribute to the development of robots to human-inhabited environments (such as in hospitals or the home) that collaborate with us, with reasoning.&lt;/p&gt;</description>
     </item>
   </channel>
